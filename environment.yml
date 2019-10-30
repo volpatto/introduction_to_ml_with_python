@@ -9,6 +9,8 @@ dependencies:
   - pillow
   - graphviz
   - python-graphviz
+  - imageio
+  - joblib
 
   # Auxiliary tools
   - jupyter
