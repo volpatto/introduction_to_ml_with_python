@@ -1,5 +1,6 @@
 name: python-ml
 dependencies:
+  # Basic dependencies
   - numpy
   - scipy
   - scikit-learn
@@ -8,3 +9,8 @@ dependencies:
   - pillow
   - graphviz
   - python-graphviz
+
+  # Auxiliary tools
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
